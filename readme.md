@@ -108,9 +108,6 @@ OS:
 
 
 # Installing:
-
-Website: https://cysentry.vercel.app
-
 No modifications need to be made, just run the executable after downloading from the website
 
 
@@ -120,20 +117,7 @@ No modifications need to be made, just run the executable after downloading from
 
 2) The App's GUI appears and then you can use it.
 
-## Authors:
 
-
-
-Version History:
-
-    0.1 - Initial Release
-
-Acknowledgments:
-
-    Research Papers:
-    https://aircconline.com/ijnsa/V14N3/14322ijnsa02.pdf
-    https://www.scitepress.org/papers/2018/66398/66398.pdf
-    https://arxiv.org/abs/2212.13988
 
 
 
